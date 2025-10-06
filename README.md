@@ -55,6 +55,9 @@ source /cadence/install/cshrc (mention the path of the tools)
 
 After this, you can see the window like below
 
+<img width="1919" height="278" alt="Screenshot 2025-10-04 081704" src="https://github.com/user-attachments/assets/2be2e0e1-3374-4c22-a15e-2e20ecc2a016" />
+
+
 #### Fig 2: Invoke the Cadence Environment
 
 To Launch the Simulation tool
@@ -67,11 +70,15 @@ or
 
 It will invoke the nclaunch window for functional simulation. We can compile, elaborate and simulate it using Multiple Steps.
 
+<img width="1919" height="278" alt="Screenshot 2025-10-04 081704" src="https://github.com/user-attachments/assets/ca6451c5-9274-448a-953d-51d827143781" />
+
+
 #### Fig 3: Setting Multi-step simulation
 
 Select Multiple Step and then select “Create cds.lib File” as shown in the figure below
 
 Click the .cds.lib file and save the file by clicking on the Save option
+<img width="1919" height="1015" alt="Screenshot 2025-09-20 090358" src="https://github.com/user-attachments/assets/57c5da3f-7ddf-4dd6-8bd2-e6c92f6a4d96" />
 
 #### Fig 4:cds.lib file Creation
 Save .lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used.
@@ -81,6 +88,9 @@ Select “Don’t include any libraries (verilog design)” from “New cds.lib 
 We are simulating a verilog design without using any libraries
 
 Click “OK” in the “nclaunch: Open Design Directory” window, as shown in the figure below
+
+<img width="1918" height="1000" alt="Screenshot 2025-09-20 090411" src="https://github.com/user-attachments/assets/3be1d634-a2eb-4d6f-acf9-b7b2c5cc5d92" />
+
  
 #### Fig 5: Selection of Don’t include any libraries
 An ‘NCLaunch window’ appears as shown in the figure below
