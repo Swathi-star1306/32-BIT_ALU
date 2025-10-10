@@ -101,6 +101,8 @@ Worklib is the directory where all the compiled codes are stored, while Snapshot
 
 To perform the function simulation, the following three steps are involved: Compilation, Elaboration and Simulation.
 
+<img width="1919" height="986" alt="Screenshot 2025-09-20 090341" src="https://github.com/user-attachments/assets/80248038-7086-4e8d-abca-a6d5353769ec" />
+
 #### Fig 6: Nclaunch Window
 
 ### Step 1: Compilation:
@@ -121,6 +123,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile filename.v
 
 Left side select the file and in Tools: launch verilog compiler with current selection will get enable. Click it to compile the code
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
+
+<img width="1918" height="959" alt="Screenshot 2025-10-09 141115" src="https://github.com/user-attachments/assets/aec239f9-de9e-4947-9d40-255410dc57fe" />
 
 #### Fig 7: Compiled database in WorkLib
 After compilation, it will come under worklib. You can see on the right side window
@@ -151,6 +155,9 @@ Outputs: Elaborate database updated in the mapped library if successful, generat
 
 After elaboration, the file will come under snapshot. Select the test bench and simulate it.
 
+<img width="1919" height="952" alt="Screenshot 2025-10-09 141133" src="https://github.com/user-attachments/assets/0033aef2-cf99-4621-af42-49a998ab3ec3" />
+
+
 #### Fig 8: Elaboration Launch Option
 
 ### Step 3: Simulation:
@@ -164,7 +171,12 @@ Simulations allow dumping design and test bench signals into a waveform
 
 Steps for simulation – Run the simulation command with simulator options
 
+<img width="1918" height="848" alt="Screenshot 2025-10-09 141413" src="https://github.com/user-attachments/assets/a6f7b3b2-6109-4917-b8eb-89d095843351" />
+
 #### Fig 9: Design Browser window for simulation
+
+<img width="1919" height="948" alt="Screenshot 2025-09-20 091606" src="https://github.com/user-attachments/assets/f2ec55ac-520d-4252-876f-0ba9bd783800" />
+
 
 #### Fig 10: Simulation Waveform Window
 
@@ -182,6 +194,8 @@ The Liberty files are present in the library path,
 • The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist. Or use source run.tcl command in the terminal window to view the netlist, and a log file will be created in the working folder.
+
+<img width="1915" height="971" alt="Screenshot 2025-09-20 093018" src="https://github.com/user-attachments/assets/90bf4da9-0da4-4071-acfa-763491ee6f7a" />
 
 #### Fig 11: Synthesis RTL Schematic 
 
