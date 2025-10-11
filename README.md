@@ -70,8 +70,7 @@ or
 
 It will invoke the nclaunch window for functional simulation. We can compile, elaborate and simulate it using Multiple Steps.
 
-<img width="1919" height="278" alt="Screenshot 2025-10-04 081704" src="https://github.com/user-attachments/assets/ca6451c5-9274-448a-953d-51d827143781" />
-
+<img width="1919" height="986" alt="Screenshot 2025-09-20 090341" src="https://github.com/user-attachments/assets/ef078310-15a3-4f38-a744-33193c284ac8" />
 
 #### Fig 3: Setting Multi-step simulation
 
@@ -199,7 +198,13 @@ The Liberty files are present in the library path,
 
 #### Fig 11: Synthesis RTL Schematic 
 
+<img width="1033" height="214" alt="Screenshot 2025-10-11 200506" src="https://github.com/user-attachments/assets/ee4489ff-7978-4a36-b1e5-3b5ef1bd4a52" />
+
+
 #### Fig 12: Area report
+
+<img width="1039" height="235" alt="image" src="https://github.com/user-attachments/assets/72f2b619-8b1d-49bb-bbe6-d942ba651028" />
+
 
 #### Fig 13: Power Report
 
