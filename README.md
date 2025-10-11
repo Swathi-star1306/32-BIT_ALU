@@ -12,6 +12,8 @@ Synthesise using Genus
 ## Design Information and Block Diagram:
 The ALU will take in two 32-bit values and a control line. An Arithmetic unit does the following tasks like addition, subtraction, multiplication and logical operations. As the input is given in 32-bit, we get a 32-bit output. The arithmetic will show only one output at a time, so a selector is necessary to select one of the operators.
 
+
+
 <img width="850" height="474" alt="image" src="https://github.com/user-attachments/assets/b446ec60-d5bf-4f35-9d2e-1d26417dee31" />
 
 
