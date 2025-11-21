@@ -12,7 +12,8 @@ The ALU will take in two 32-bit values and a control line. An Arithmetic unit do
 
 
 
-<img width="850" height="474" alt="image" src="https://github.com/user-attachments/assets/b446ec60-d5bf-4f35-9d2e-1d26417dee31" />
+<img width="668" height="344" alt="image" src="https://github.com/user-attachments/assets/d4474309-3239-4773-bac6-a4d6f296dc51" />
+
 
 
 #### Fig 1: Block Diagram of 32 Bit ALU
